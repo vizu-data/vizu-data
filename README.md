@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vizu-data
-- 👀 I’m interested in data visualization for journalist purposes
+- 👀 I’m interested in data visualization for journalism purposes
 - 🌱 I’m currently learning jekyll to setup the website i got from a template
 - 💞️ I’m looking to collaborate on this and other related projects
 - 📫 How to reach me ? Do it on twitter @Fhairless ...........i know..like why? 
